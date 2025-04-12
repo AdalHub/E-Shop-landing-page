@@ -1,0 +1,25 @@
+.entire-site{
+    display: flex;
+    flex:1;
+    flex-direction: column;
+}
+
+body{
+    display: flex;
+    border: 0ppx;
+    padding: 0%;
+    margin: 0;  
+}
+
+.header {
+    display: flex;
+    flex: 1;
+    background-color: #1f2937;
+}
+
+
+.second_icon_box{
+    border: 10px;
+    border-color:#535353 ;
+    
+}
